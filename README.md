@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **a software Developer for Netsimco**
 
-- 🌱 I’m currently learning **Arduino, C++.**
+- 🌱 I’m currently learning **Arduino, C++, SharePoint, Power App, Power Automate.**
 
 - 💬 Ask me about **Frontend (HTML, CSS, JavaScript, React, React Native), Backend (Java, C#, Python), Data (SQL)**
 
