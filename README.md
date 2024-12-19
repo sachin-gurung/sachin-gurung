@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-gurung&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-gurung" /> </p>
 
-- 🔭 I’m currently working as **a software Developer for Netsimco**
+- 🔭 I’m currently going to school for **Computer Science degree with Software Engineering concentration**
 
-- 🌱 I’m currently learning **Arduino, C++, SharePoint, Power App, Power Automate.**
+- 🌱 I’m currently learning **iOS App and Swift**
 
-- 💬 Ask me about **Frontend (HTML, CSS, JavaScript, React, React Native), Backend (Java, C#, Python), Data (SQL)**
+- 💬 Ask me about **Frontend (HTML, CSS, JavaScript, React, React Native), Backend (Java, C#, Python, Firebase), Data (SQL)**
 
 - 📫 How to reach me **sachingurung10@gmail.com**
 
